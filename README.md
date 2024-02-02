@@ -1,5 +1,5 @@
 # 💫 Hey I Sanchit Khokhar
-A Computer Science student keen on learning more about Web Development and Software Engineering.<br>🏫 Pursuing my B. Tech in Computer Science and Engineering from Bharati Vidyapeeth (DU) College of Engineering.<br>🌱 I’m currently learning React, Express <br><br><br>
+<li>A Computer Science student keen on learning more about Web Development and Software Engineering.<br>🏫 Pursuing my B. Tech in Computer Science and Engineering from Bharati Vidyapeeth (DU) College of Engineering.<br>🌱 I’m currently learning React, Express</li> <br><br><br>
 
 
 ## 🌐 Socials:

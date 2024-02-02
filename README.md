@@ -1,7 +1,6 @@
 # 💫 Hey I am Sanchit Khokhar
 <ul><li>A Computer Science student keen on learning more about Web Development and Software Engineering.</li><li>🏫 Pursuing my B. Tech in Computer Science and Engineering from Bharati Vidyapeeth (DU) College of Engineering.</li><li>🌱 I’m currently learning React, Express</li></ul><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/san._._k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sanchit-khokhar-4084ab1a0) 
 
